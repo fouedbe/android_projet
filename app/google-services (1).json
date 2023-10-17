@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15579178167",
+    "firebase_url": "https://mini-food-bb310-default-rtdb.firebaseio.com",
+    "project_id": "mini-food-bb310",
+    "storage_bucket": "mini-food-bb310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15579178167:android:f2c1b16b27709a9b925932",
+        "android_client_info": {
+          "package_name": "com.example.minifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15579178167-u4re0qu5rnbe5gks435kc3n4ut6ge6v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDiJpWpyIkl4lSOGHU7GjJ7pegsSy6Mdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15579178167-u4re0qu5rnbe5gks435kc3n4ut6ge6v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

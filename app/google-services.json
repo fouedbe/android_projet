@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933382800264",
+    "project_id": "nodewithfirebase-787d4",
+    "storage_bucket": "nodewithfirebase-787d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933382800264:android:2c88ef4ff2c42596b9303d",
+        "android_client_info": {
+          "package_name": "com.example.minifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933382800264-ifi5v85joom8bs9ch5ps5u75hbbjk6mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtu9h9ErrvvYrD_RYPCrhcbFdP9NRscY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933382800264-ifi5v85joom8bs9ch5ps5u75hbbjk6mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

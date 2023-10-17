@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Minifood</string>
+    <string name="Minifood"><![CDATA[Mini&&Food]]></string>
+    <string name="EnjoyEating">Enjoy Eating</string>
+    <string name="Get_started">Get started</string>
+    <string name="hi_foued">Hi foued</string>
+    <string name="serach_order">Serach order</string>
+    <string name="UP_to_20">Up To 20%</string>
+    <string name="mar12_avr">Mars 12-Avr 15</string>
+    <string name="order">Order Now</string>
+    <string name="serach_for_favorite">Serach For Favorite Food</string>
+    <string name="recommended">Recommended</string>
+    <string name="title" />
+    <string name="title1">Title</string>
+    <string name="addtocart">addtocart</string>
+</resources>
